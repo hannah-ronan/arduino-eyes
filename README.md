@@ -1,3 +1,3 @@
 # arduino-eyes
-Arduino code/3d model/demo vid for the 3d printed animatronic eyes I made for a class project
-See a demo video on my website <a href="https://hannahronan.com/post.php?ID=18">here</a>
+<p>3d printed animatronic eyes I made for a class project. 3d modelled using Fusion 360 and printed on and Ender 3. Controlled by an Arduino Uno</p>
+<p>See a demo video on YouTube <a href="https://youtu.be/dWQD4lh_2yc">here</a></p>
